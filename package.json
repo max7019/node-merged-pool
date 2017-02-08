@@ -1,6 +1,6 @@
 {
     "name": "blockgen-merged-pooler",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
         "stratum",
