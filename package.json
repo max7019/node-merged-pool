@@ -1,5 +1,5 @@
 {
-    "name": "blockgen-merged-pooler",
+    "name": "node-merged-pooler",
     "version": "1.0.4",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
@@ -31,10 +31,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "https://github.com/max7019/node-merged-pool.git"
     },
     "dependencies": {
-        "blockgen-multi-hashing": "*",
+        "node-multi-hashing": "git://github.com/max7019/node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
